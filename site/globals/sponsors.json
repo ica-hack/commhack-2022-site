@@ -6,6 +6,12 @@
     "flex": "1 1 20%"
   },
   {
+    "name": "Institute of Communications Research",
+    "logo": "/images/sponsor_logos/illinois_logo.png",
+    "link": "https://media.illinois.edu/icr",
+    "flex": "1 1 20%"
+  },
+  {
     "name": "ICA Communication Science & Biology Interest Group",
     "logo": "/images/sponsor_logos/csab_logo.png",
     "link": "https://commscience.org/",
