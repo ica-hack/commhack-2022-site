@@ -6,7 +6,13 @@
     "flex": "1 1 20%"
   },
   {
-    "name": "Institute of Communications Research",
+    "name": "University of Münster, Institute of Communication",
+    "logo": "/images/sponsor_logos/muenster_logo.png",
+    "link": "https://www.uni-muenster.de/Kowi/institut/index.html",
+    "flex": "1 1 20%"
+  },
+  {
+    "name": "Institute of Communications Research, University of Illinois Urbana-Champaign",
     "logo": "/images/sponsor_logos/illinois_logo.png",
     "link": "https://media.illinois.edu/icr",
     "flex": "1 1 20%"
