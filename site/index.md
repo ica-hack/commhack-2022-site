@@ -24,7 +24,7 @@ The venue is at [Gardens Point campus of Queensland University of Technology in 
 - June 19th & June 20th 2024
 - We start June 19 sometime in the morning (not too early) and will end June in the late afternoon. We will be early enough to get you to Gold Coast in time for the opening lecture of the main conference. 
 
-## What is a Hackathon, anyway?
+## What is a Hackathon?
 
 Advancing open research practices in communication is contingent upon sharing tools, ideas, skills, and data across a disparate collection of sub-fields. Although conferences and workshops are undoubtedly beneficial for pursuing these goals, they rarely afford the unstructured time and hands-on collaboration required to fully realize their potential for catalyzing open research practices. We believe that **hackathons** can serve as a viable means of improving collaboration and skill development within communication science.
 
