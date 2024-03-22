@@ -15,10 +15,10 @@ The ICA Pre-conference Hackathon is a two day hands-on workshop that takes place
 
 ## Where?
 We will hack on a beautiful green peninsula right in the middle of Brisbane (see below).
-The venue is at [Gardens Point campus of Queensland University of Technology in Brisbane](https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus)
+The venue is at [Gardens Point campus of Queensland University of Technology in Brisbane](https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus) The hackathon will take place in the P-Block of the campus, surrounding [The Cube](https://www.thecube.qut.edu.au/) in the Science and Engineering Centre.
 <img src="images/meta/venue_aussie.png" width="50%" height="50%" alt="Venue of the 2024 Hackathon - QUT Gardens Point Campus">
 
-**Important:** The Hackathon will take place in Brisbane, while ICA main conference is in Gold Coast. Gold Coast is a city south of Brisbane. It takes about an hour by train. We will organize a travel group that Hackathon participants can join.
+**Important:** The Hackathon will take place in Brisbane, while ICA main conference is in Gold Coast. Gold Coast is a city south of Brisbane. It takes about an hour by train. We will organize a travel group that Hackathon participants can join. This also means you can fly into Brisbane, stay there a couple of days and hack with us, and then take an easy train ride south to ICA. 
 
 ## When? 
 - June 19th & June 20th 2024
