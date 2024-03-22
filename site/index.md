@@ -16,6 +16,7 @@ The ICA Pre-conference Hackathon is a two day hands-on workshop that takes place
 - **Cost [Tier A/B/C]:** Faculty: $175/$125/$75, Students/Postdocs: $125/$75/$25
 
 ## Where?
+![alt text]("images/meta/venue_aussie.png)
 
 ## When? 
 
