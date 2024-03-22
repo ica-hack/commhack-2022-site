@@ -22,7 +22,7 @@ The venue is at [Gardens Point campus of Queensland University of Technology in 
 
 ## When? 
 - June 19th & June 20th 2024
-- We start June 19 sometime in the morning (not too early) and will end June in the late afternoon. We will be early enough to get you to Gold Coast in time for the opening lecture of the main conference. 
+- We start June 19 sometime in the morning (not too early) and will end June 20 in the late afternoon. We will be early enough to get you to Gold Coast in time for the opening lecture of the main conference. 
 
 ## What is a Hackathon?
 
