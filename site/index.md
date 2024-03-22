@@ -11,8 +11,7 @@ eleventyNavigation:
 
 The ICA Pre-conference Hackathon is a two day hands-on workshop that takes place before the annual meeting of the [International Communication Association](https://www.icahdq.org/). The main goal of the hackathon is to encourage open, non-competitive collaboration across communication subfields utilizing computational and "big data" methods. The hackathon is a collaborative effort between the [Computational Methods](http://ica-cm.org/) division and the [Communication Science and Biology](https://commscience.org/) interest group of the International Communication Association. During the hackathon, attendees will join teams to collaborate on programming projects and learn from one another. Attendees will also have the opportunity to lead and attend breakout sessions taught by other hackathon attendees. No programming experience is necessary to participate in the hackathon, and we encourage those of all skill levels to attend!
 
-- **Dates:** June 19th & June 20th 2024
-- **Location:** Brisbane, Australia
+- **Dates:** 
 - **Cost [Tier A/B/C]:** Faculty: $175/$125/$75, Students/Postdocs: $125/$75/$25
 
 ## Where?
@@ -23,11 +22,8 @@ The venue is at [Gardens Point campus of Queensland University of Technology in 
 **Important:** The Hackathon will take place in Brisbane, while ICA main conference is in Gold Coast. Gold Coast is a city south of Brisbane. It takes about an hour by train. We will organize a travel group that Hackation participants can join.
 
 ## When? 
-
-## How?
-
-
-
+- June 19th & June 20th 2024
+- We start June 19 sometime in the morning (not too eary) and will end June in the late afternoon. We will early enough to get you to Gold Coast in time for the opening lecture of the main conference. 
 
 ## What is a Hackathon, anyway?
 
