@@ -17,6 +17,7 @@ The ICA Pre-conference Hackathon is a two day hands-on workshop that takes place
 
 ## Where?
 ![alt text]("images/meta/venue_aussie.png)
+<img src="images/meta/venue_aussie.png" alt="Italian Trulli">
 
 ## When? 
 
