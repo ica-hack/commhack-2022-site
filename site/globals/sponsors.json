@@ -12,6 +12,12 @@
     "flex": "1 1 40%"
   },
   {
+    "name": "Weizenbaum Journal of the Digital Society",
+    "logo": "/images/sponsor_logos/wjds_logo.png",
+    "link": "https://ojs.weizenbaum-institut.de/index.php/wjds/index",
+    "flex": "1 1 20%"
+  },
+  {
     "name": "University of Münster, Institute of Communication",
     "logo": "/images/sponsor_logos/muenster_logo.png",
     "link": "https://www.uni-muenster.de/Kowi/institut/index.html",
