@@ -12,6 +12,12 @@
     "flex": "1 1 40%"
   },
   {
+    "name": "Department of Media and Communication - LMU Munich",
+    "logo": "/images/sponsor_logos/ifkw_logo.png",
+    "link": "https://www.ifkw.uni-muenchen.de/index.html",
+    "flex": "1 1 40%"
+  },
+  {
     "name": "Weizenbaum Journal of the Digital Society",
     "logo": "/images/sponsor_logos/wjds_logo.png",
     "link": "https://ojs.weizenbaum-institut.de/index.php/wjds/index",
