@@ -18,14 +18,7 @@
     "institution": "University of Amsterdam",
     "institution_link": "https://www.uva.nl/en",
     "headshot": "/images/headshots/fabio.jpg",
-    "position": "Postdoc"
-  },
-  {
-    "name": "Mandy Badermann",
-    "institution": "University of Tübingen",
-    "institution_link": "https://uni-tuebingen.de/",
-    "headshot": "/images/headshots/mandy.jpg",
-    "position": "PhD Student"
+    "position": "Postdoctoral Researcher"
   },
   {
     "name": "Hannah Overbye-Thompson",
@@ -35,21 +28,7 @@
     "position": "PhD Student"
   },
   {
-    "name": "Jason Greenfield",
-    "institution": "New York University",
-    "institution_link": "https://www.nyu.edu/",
-    "headshot": "/images/headshots/jason.jpg",
-    "position": "Research Engineer"
-  },
-  {
-    "name": "Natalia Umansky",
-    "institution": "University of Zurich",
-    "institution_link": "https://www.ipz.uzh.ch/en.html",
-    "headshot": "/images/headshots/natalia.jpg",
-    "position": "Postdoc"
-  },
-  {
-    "name": "Patrick Schwabl",
+    "name": "Patrick Parschan",
     "institution": "LMU Munich",
     "institution_link": "https://www.lmu.de/de/index.html",
     "headshot": "/images/headshots/patrick.jpg",
@@ -67,6 +46,13 @@
     "institution": "Michigan State University",
     "institution_link": "https://msu.edu/",
     "headshot": "/images/headshots/sue.jpg",
+    "position": "PhD Student"
+  },
+  {
+    "name": "Jula Lühring",
+    "institution": "University of Vienna",
+    "institution_link": "https://www.univie.ac.at/",
+    "headshot": "/images/headshots/jula.jpg",
     "position": "PhD Student"
   }
 ]
