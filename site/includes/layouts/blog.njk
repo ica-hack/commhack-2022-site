@@ -43,7 +43,7 @@ pagination:
 
                                     {% for item in post.data.tags %}
 
-                                        {%- if item !== 'blog' -%}
+                                        {% if item != 'blog' %}
 
                                             <span class="category box-block bg-secondary color-primary text-300">{{ item | capitalize }}</span>
 
