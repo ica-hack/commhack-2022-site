@@ -31,7 +31,7 @@ layout: base
 
                             {% for item in tags %}
 
-                                {%- if item !== 'blog' -%}
+                                {%- if item != 'blog' -%}
 
                                     <li class="category"><a href="/categories/{{ item }}">{{ comma() }} {{ item | capitalize }}</a></li>
 
