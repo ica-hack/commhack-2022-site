@@ -1,8 +1,8 @@
 ---
 layout: home
 meta_title: Home
-meta_description: ICA 2024 Pre-conference Hackathon
-title: ICA 2024 Pre-Conference Hackathon
+meta_description: ICA 2025 Pre-conference Hackathon
+title: ICA 2025 Pre-Conference Hackathon
 sub_heading: 
 eleventyNavigation:
   key: Home
