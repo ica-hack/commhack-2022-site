@@ -40,7 +40,7 @@ Node `v10+`
 
 ### Assets
 
-- `css/` for compiled CSS
+- `css/` for compiled 
 - `js/` for compiled JavaScript
 - `images/` contains our site's images, an SVG icon sprite and a folder for meta images (OG, Twitter etc)
 
