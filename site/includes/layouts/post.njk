@@ -27,13 +27,13 @@ layout: base
                         <ul class="categories">
 
                             {# this will create a comma for multiple category links #}
-                            {% assign comma = joiner() %}
+                            {% assign comma = joiner %}
 
                             {% for item in tags %}
 
                                 {%- if item != 'blog' -%}
 
-                                    <li class="category"><a href="/categories/{{ item }}">{{ comma() }} {{ item | capitalize }}</a></li>
+                                    <li class="category"><a href="/categories/{{ item }}">{{ comma }} {{ item | capitalize }}</a></li>
 
                                 {%- endif -%}
 
