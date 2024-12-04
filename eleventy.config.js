@@ -20,12 +20,12 @@ module.exports = function (config) {
   config.ignores.add("_drafts/**");
 
   // Layout Aliases
-  config.addLayoutAlias("base", "_layouts/base.njk");
-  config.addLayoutAlias("home", "_layouts/home.njk");
-  config.addLayoutAlias("page", "_layouts/page.njk");
-  config.addLayoutAlias("organizers", "_layouts/organizers.njk");
-  config.addLayoutAlias("sponsorship", "_layouts/sponsorship.njk");
-  config.addLayoutAlias("contact", "_layouts/contact.njk");
+  config.addLayoutAlias("base", "base.njk");
+  config.addLayoutAlias("home", "home.njk");
+  config.addLayoutAlias("page", "page.njk");
+  config.addLayoutAlias("organizers", "organizers.njk");
+  config.addLayoutAlias("sponsorship", "sponsorship.njk");
+  config.addLayoutAlias("contact", "contact.njk");
 
   // Passthrough Copy
   config.addPassthroughCopy("css");
@@ -44,7 +44,7 @@ module.exports = function (config) {
       input: "site",
       output: "public",
       includes: "includes",
-      layouts: "_layouts",
+      layouts: "includes/_layouts",
       data: "globals",
     },
   };
