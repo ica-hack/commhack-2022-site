@@ -10,7 +10,7 @@
     "name": "Kylie Woodman",
     "institution": "UC Santa Barbara",
     "institution_link": "https://www.ucsb.edu/",
-    "headshot": "/public/images/headshots/kylie.jpg",
+    "headshot": "/images/headshots/kylie.jpg",
     "position": "PhD Student"
   },
   {
@@ -38,7 +38,7 @@
     "name": "Ross Dahlke",
     "institution": "Stanford University",
     "institution_link": "https://www.stanford.edu",
-    "headshot": "commhack-site/public/images/headshots/ross.jpg",
+    "headshot": "/images/headshots/ross.jpg",
     "position": "PhD Student"
   },
   {
