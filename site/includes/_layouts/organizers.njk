@@ -17,7 +17,9 @@ data: organizer_list
             <h1 class="page-title">{{ title }}</h1>
 
             {% if sub_heading %}
+
                 <p class="sub-heading">{{ sub_heading }}</p>
+
             {% endif %}
 
         </header>
@@ -27,14 +29,12 @@ data: organizer_list
             <div class="inner">
                 <div class="box-grid headshot-grid">
 
-                    {% assign org_shuf = organizer_list | shuffle %}
+                    {% set org_shuf = organizer_list | shuffle %}
 
                     {%- for organizer in org_shuf %}
                         <div class="headshot-card">
                             <div class="card-body">
-                                <div class="card-header-image">
-                                    <img data-src="{{ organizer.headshot }}" alt="{{ organizer.name }}">
-                                </div>
+                                <div class="card-header-image"><img data-src="{{ organizer.headshot }}" alt="{{ organizer.name }}"></div>
                                 <div class="name text-500">{{ organizer.name }}</div>
                                 <div class="affiliation">
                                     <i class="fas fa-solid fa-microscope" style="padding:0 .5em 0 0; color:grey"></i>
@@ -42,20 +42,20 @@ data: organizer_list
                                 </div>
                                 <div class="affiliation">
                                     <i class="fas fa-university" style="padding:0 .5em 0 0; color: grey"></i>
-                                    <a href="{{ organizer.institution_link }}">{{ organizer.institution }}</a><br>
+                                    <a href="{{organizer.institution_link}}">{{ organizer.institution }}</a><br>
                                 </div>
                             </div>
                         </div>
                     {% endfor -%}
                 </div>
 
-                <div class="callout">
-                    <div class="callout-icon">
+                <div class = "callout">
+                    <div class = "callout-icon">
                         <i class="fas fa-exclamation-circle color-grey"></i>
                     </div>
-                    <div class="callout-text">
+                    <div class = "callout-text">
                         {{ content | safe }}
-                    </div>
+                    </callout>
                 </div>
             </div>
         </div>
