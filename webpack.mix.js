@@ -18,10 +18,10 @@ mix
     .setPublicPath('public')
 
     // Compile Javascript
-    .js('resources/js/main.js', 'public/js/')
+    .js('resources/js/main.js', 'js')
 
     // Compile SCSS
-    .sass('resources/scss/main.scss', 'public/css/')
+    .sass('resources/scss/main.scss', 'css')
     .options({ processCssUrls: false })
 
 // Production only
@@ -31,8 +31,8 @@ if (mix.inProduction()) {
             safelist: ['menu-visible', 'loaded', 'expanded', /^type-/, /^page-/, /[data-src]/],
             extractorPattern: [/[^<>"'`\s]*[^<>"'`\s:]/g]
         })
-        .minify('public/css/main.css')
-        .minify('public/js/main.js')
+        .minify('css/main.css')
+        .minify('js/main.js')
 }
 
 
