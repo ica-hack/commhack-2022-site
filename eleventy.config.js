@@ -37,7 +37,6 @@ module.exports = function (config) {
 
   // Return Configuration
   return {
-    pathPrefix: "/commhack-site/",
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
