@@ -28,12 +28,12 @@ module.exports = function (config) {
   config.addLayoutAlias("contact", "contact.njk");
 
   // Passthrough Copy
-  config.addPassthroughCopy("css");
-  config.addPassthroughCopy("js");
-  config.addPassthroughCopy("images");
-  config.addPassthroughCopy("globals");
-  config.addPassthroughCopy("favicon.png");
-  config.addPassthroughCopy("favicon.svg");
+  config.addPassthroughCopy({ "css": "css" });
+  config.addPassthroughCopy({ "js": "js" });
+  config.addPassthroughCopy({ "images": "images" });
+  config.addPassthroughCopy({ "globals": "globals" });
+  config.addPassthroughCopy({ "favicon.png": "favicon.png" });
+  config.addPassthroughCopy({ "favicon.svg": "favicon.svg" });
 
   // Return Configuration
   return {
