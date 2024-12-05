@@ -3,56 +3,56 @@
     "name": "Jacob T. Fisher",
     "institution": "MSU",
     "institution_link": "https://msu.edu/",
-    "headshot": "/images/headshots/jacob_headshot.jpg",
+    "headshot": "/public/images/headshots/jacob_headshot.jpg",
     "position": "Assistant Professor"
   },
   {
     "name": "Kylie Woodman",
     "institution": "UC Santa Barbara",
     "institution_link": "https://www.ucsb.edu/",
-    "headshot": "/images/headshots/kylie.jpg",
+    "headshot": "/public/images/headshots/kylie.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Fabio Votta",
     "institution": "University of Amsterdam",
     "institution_link": "https://www.uva.nl/en",
-    "headshot": "/images/headshots/fabio.jpg",
+    "headshot": "/public/images/headshots/fabio.jpg",
     "position": "Postdoctoral Researcher"
   },
   {
     "name": "Hannah Overbye-Thompson",
     "institution": "UC Santa Barbara",
     "institution_link": "https://www.ucsb.edu/",
-    "headshot": "/images/headshots/hannah.jpg",
+    "headshot": "/public/images/headshots/hannah.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Patrick Parschan",
     "institution": "LMU Munich",
     "institution_link": "https://www.lmu.de/de/index.html",
-    "headshot": "/images/headshots/patrick.jpg",
+    "headshot": "/public/images/headshots/patrick.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Ross Dahlke",
     "institution": "Stanford University",
     "institution_link": "https://www.stanford.edu",
-    "headshot": "/images/headshots/ross.jpg",
+    "headshot": "/public/images/headshots/ross.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Sue Lim",
     "institution": "Michigan State University",
     "institution_link": "https://msu.edu/",
-    "headshot": "/images/headshots/sue.jpg",
+    "headshot": "/public/images/headshots/sue.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Jula Lühring",
     "institution": "University of Vienna",
     "institution_link": "https://www.univie.ac.at/",
-    "headshot": "/images/headshots/jula.jpg",
+    "headshot": "/public/images/headshots/jula.jpg",
     "position": "PhD Student"
   }
 ]
