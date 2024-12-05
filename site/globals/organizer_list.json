@@ -3,7 +3,7 @@
     "name": "Jacob T. Fisher",
     "institution": "MSU",
     "institution_link": "https://msu.edu/",
-    "headshot": "/public/images/headshots/jacob_headshot.jpg",
+    "headshot": "/images/headshots/jacob_headshot.jpg",
     "position": "Assistant Professor"
   },
   {
@@ -17,21 +17,21 @@
     "name": "Fabio Votta",
     "institution": "University of Amsterdam",
     "institution_link": "https://www.uva.nl/en",
-    "headshot": "/public/images/headshots/fabio.jpg",
+    "headshot": "/images/headshots/fabio.jpg",
     "position": "Postdoctoral Researcher"
   },
   {
     "name": "Hannah Overbye-Thompson",
     "institution": "UC Santa Barbara",
     "institution_link": "https://www.ucsb.edu/",
-    "headshot": "/public/images/headshots/hannah.jpg",
+    "headshot": "/images/headshots/hannah.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Patrick Parschan",
     "institution": "LMU Munich",
     "institution_link": "https://www.lmu.de/de/index.html",
-    "headshot": "/public/images/headshots/patrick.jpg",
+    "headshot": "/images/headshots/patrick.jpg",
     "position": "PhD Student"
   },
   {
@@ -45,14 +45,14 @@
     "name": "Sue Lim",
     "institution": "Michigan State University",
     "institution_link": "https://msu.edu/",
-    "headshot": "/public/images/headshots/sue.jpg",
+    "headshot": "/images/headshots/sue.jpg",
     "position": "PhD Student"
   },
   {
     "name": "Jula Lühring",
     "institution": "University of Vienna",
     "institution_link": "https://www.univie.ac.at/",
-    "headshot": "/public/images/headshots/jula.jpg",
+    "headshot": "/images/headshots/jula.jpg",
     "position": "PhD Student"
   }
 ]
