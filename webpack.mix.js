@@ -1,4 +1,3 @@
-
 //==========  Laravel Mix  ==========//
 
 const mix = require('laravel-mix')
@@ -7,7 +6,6 @@ require('laravel-mix-purgecss')
 
 // Run Mix
 mix
-
     // cleaner aliases for js module imports (optional)
     .webpackConfig({
         resolve: {
@@ -25,14 +23,8 @@ mix
     .sass('resources/scss/main.scss', 'css/')
     .options({ processCssUrls: false })
 
-
 // Production only
-if ( mix.inProduction() )
-{
-
-    // Purge our CSS
-    // mix minifies CSS & JS by default
-    // I prefer to add the `.min` suffix on the output files just for convention
+if (mix.inProduction()) {
     mix.purgeCss({
             content: ['site/**/*.njk'],
             safelist: ['menu-visible', 'loaded', 'expanded', /^type-/, /^page-/, /[data-src]/],
@@ -40,7 +32,6 @@ if ( mix.inProduction() )
         })
         .minify('css/main.css')
         .minify('js/main.js')
-
 }
 
 

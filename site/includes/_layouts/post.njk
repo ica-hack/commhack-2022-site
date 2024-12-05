@@ -33,7 +33,7 @@ layout: base
 
                                 {%- if item != 'blog' -%}
 
-                                    <li class="category"><a href="/categories/{{ item }}">{{ comma }} {{ item | capitalize }}</a></li>
+                                    <li class="category"><a href="{{ '/categories/' | url }}{{ item }}">{{ comma }} {{ item | capitalize }}</a></li>
 
                                 {%- endif -%}
 
@@ -70,8 +70,8 @@ layout: base
 
             <nav class="pagination mb-1000" aria-label="Pagination">
                 <ul class="items text-400 tablet:box-flex">
-                    {% if previous_post %}<li class="mb-300"><span class="weight-bold">Previous:</span> <a href="{{ previous_post.url }}">{{ previous_post.data.title }}</a></li>{% endif %}
-                    {% if next_post %}<li><span class="weight-bold">Next:</span> <a href="{{ next_post.url }}">{{ next_post.data.title }}</a></li>{% endif %}
+                    {% if previous_post %}<li class="mb-300"><span class="weight-bold">Previous:</span> <a href="{{ previous_post.url | url }}">{{ previous_post.data.title }}</a></li>{% endif %}
+                    {% if next_post %}<li><span class="weight-bold">Next:</span> <a href="{{ next_post.url | url }}">{{ next_post.data.title }}</a></li>{% endif %}
                 </ul>
             </nav>
 
@@ -97,7 +97,7 @@ layout: base
             "name": "{{ site.name }}",
             "logo": {
             "@type": "ImageObject",
-            "url": "{{ site.url }}/images/meta/article-schema.png"
+            "url": "{{ site.url }}{{ '/images/meta/article-schema.png' | url }}"
             }
         },
         "datePublished": "{{ date | timestamp }}",
