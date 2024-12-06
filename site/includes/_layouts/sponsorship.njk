@@ -26,11 +26,11 @@ data: sponsors
 
         <div class="box-grid sponsor-grid">
             {%- for sponsor in sponsors %}
-            <div class = "masonry-brick tooltip">
-
-                <a href="{{ sponsor.link }}"><img src="{{ sponsor.logo | url }}" alt="{{ sponsor.name }}" style="flex:{{ sponsor.flex }}"></img></a>
+            <div class="masonry-brick tooltip" style="flex: {{ sponsor.flex }}">
+                <a href="{{ sponsor.link }}">
+                    <img src="{{ sponsor.logo | url }}" alt="{{ sponsor.name }}"></img>
+                </a>
                 <span class="tooltiptext">{{sponsor.name}}</span>
-
             </div>
             {% endfor -%}
         </div>
