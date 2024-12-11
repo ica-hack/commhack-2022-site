@@ -1,4 +1,3 @@
-
 //========== Utilities ==========//
 
 // container
@@ -70,4 +69,13 @@
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+a {
+    color: var(--color-link);
+    text-decoration-color: var(--color-link-underline);
+    
+    &:hover {
+        color: var(--color-link-hover);
+    }
 }
