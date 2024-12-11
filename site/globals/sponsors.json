@@ -49,7 +49,7 @@
   },
   {
     "name": "Department of Communication, Michigan State University",
-    "logo": "/images/sponsor_logos/comartsci_logo.png",
+    "logo": "commhack-site/images/sponsor_logos/comartsci_logo.png",
     "link": "https://comartsci.msu.edu/departments/communication",
     "flex": "2 1 20%"
   },
