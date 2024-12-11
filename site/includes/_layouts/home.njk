@@ -32,7 +32,7 @@ layout: base
                 {%- for sponsor in sponsors %}
                 <div class = "masonry-brick tooltip">
 
-                    <img data-src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" style="flex:{{ sponsor.flex }}"></img>
+                    <img data-src="{{ sponsor.logo | url }}" alt="{{ sponsor.name }}"></img>
                     <span class="tooltiptext">{{sponsor.name}}</span>
 
                 </div>
