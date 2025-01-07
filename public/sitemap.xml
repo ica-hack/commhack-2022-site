@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
     <url>
-        <loc>https://hackingcommsci.org/about/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/about/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
+
     <url>
-        <loc>https://hackingcommsci.org/contact/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/contact/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
+
     <url>
-        <loc>https://hackingcommsci.org/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
+
     <url>
-        <loc>https://hackingcommsci.org/organizers/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/organizers/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
+
     <url>
-        <loc>https://hackingcommsci.org/signup/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/signup/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
+
     <url>
-        <loc>https://hackingcommsci.org/sponsorship/</loc>
-        <lastmod>2023-03-13</lastmod>
+        <loc>https://hackingcommsci.org/commhack-site/sponsorship/</loc>
+        <lastmod>2025-01-07</lastmod>
     </url>
+
 </urlset>

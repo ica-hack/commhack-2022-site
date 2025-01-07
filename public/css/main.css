@@ -895,6 +895,14 @@
   visibility: visible;
 }
 
+a {
+  color: var(--color-link);
+  text-decoration-color: var(--color-link-underline);
+}
+a:hover {
+  color: var(--color-link-hover);
+}
+
 /* Box sizing rules */
 *,
 *::before,
@@ -1100,7 +1108,7 @@ a:not([class]):hover {
 }
 .nav .link-get-started:hover {
   color: #fff;
-  background-color: #bf8a16;
+  background-color: rgb(174.1428571429, 54.0816326531, 37.8571428571);
 }
 
 .mobile-nav {
@@ -1195,7 +1203,7 @@ a:not([class]):hover {
   font-weight: 900;
 }
 .button:hover {
-  background-color: #bf8a16;
+  background-color: rgb(174.1428571429, 54.0816326531, 37.8571428571);
 }
 .button:focus {
   outline: 3px solid #DC6D5E;
@@ -1380,7 +1388,6 @@ a:not([class]):hover {
   flex-flow: row wrap;
   align-items: center;
   justify-content: space-around;
-  flex-direction: row;
   row-gap: 4rem;
   -moz-column-gap: 2rem;
        column-gap: 2rem;
@@ -1388,17 +1395,25 @@ a:not([class]):hover {
   max-width: 100%;
 }
 .sponsor-grid .masonry-brick {
-  -o-object-fit: contain;
-     object-fit: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 4em;
-  max-width: 60%;
 }
-.sponsor-grid .masonry-brick img.loaded {
+.sponsor-grid .masonry-brick a {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.sponsor-grid .masonry-brick img {
   -o-object-fit: contain;
      object-fit: contain;
   height: 100%;
   width: auto;
+  max-width: 100%;
+  transition: transform 0.2s ease;
 }
-.sponsor-grid .masonry-brick img.loaded :hover {
+.sponsor-grid .masonry-brick img:hover {
   cursor: pointer;
+  transform: scale(1.05);
 }
